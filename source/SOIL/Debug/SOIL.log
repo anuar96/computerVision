@@ -1,9 +1,0 @@
-﻿  stb_image_aug.c
-c1 : fatal error C1083: Не удается открыть файл источник: ..\..\src\stb_image_aug.c: No such file or directory
-  SOIL.c
-c1 : fatal error C1083: Не удается открыть файл источник: ..\..\src\SOIL.c: No such file or directory
-  image_helper.c
-c1 : fatal error C1083: Не удается открыть файл источник: ..\..\src\image_helper.c: No such file or directory
-  image_DXT.c
-c1 : fatal error C1083: Не удается открыть файл источник: ..\..\src\image_DXT.c: No such file or directory
-  Создание кода...
